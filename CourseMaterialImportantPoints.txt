@@ -1,0 +1,5 @@
+Create conda enviroment
+	conda create -p venv python==3.10
+	
+Activate virtual enviroment
+	C:\Users\002DQD744\Desktop\ds_prep>conda activate venv/
